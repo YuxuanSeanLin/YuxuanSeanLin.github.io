@@ -9,14 +9,31 @@
 locale                   : "en-US"
 title                    : "<Your Name>"
 title_separator          : "-"
-name                     : &name "<Your Name>"
-description              : &description "personal description"
-url                      : https://yuxuanseanlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yuxuan Lin"
+description              : &description "MPhil"
+url                      : https://yuxuanseanlin.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YuxuanSeanLin/YuxuanSeanLin.github.io"
+repository               : "yuxuanseanlin/yuxuanseanlin.github.io"
 teaser                   : "pic.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add
+talkmap_link             : false 
+
+
+# Site Author
+author:
+  name             : "Your Sidebar Name"
+  avatar           : "pic.jpg"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  facebook         :
+  github           : "academicpages"
+  orcid            : "http://orcid.org/yourorcidurl"
+  twitter          : "replacethistwitterhandle"
