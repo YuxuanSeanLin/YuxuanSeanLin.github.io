@@ -4,9 +4,9 @@
 + 07/2019-08/2019  |  Visiting program at National Ilan University, Taiwan, China                      
 
 ## Publication
-+ **<u>Yuxuan Lin</u>**, Zhixue Chen, Xinyi Zhang, Yi Li*. Climate connectivity loss informs greater vulnerability of marine taxa in future seascape *(In preparation)*
-+ Yiyang Kang, **<u>Yuxuan Lin</u>**, Zhixue Chen, Yi Li*. Area requirements to safeguard marine species in the face of human-modified climate connectivity. Under review of *Journal of Applied Ecology*
-+ Kangchen Yu, **<u>Yuxuan Lin</u>**, Ang Yu*. Performance of crosslinked β-Cyclodextrin & Chitosan in adsorbing Linear alkylbenzene sulfonates *(In preparation)*
++ **<u>Yuxuan Lin</u>**, Zhixue Chen, Xinyi Zhang, Yi Li. Climate connectivity loss informs greater vulnerability of marine taxa in future seascape *(In preparation)*
++ Yiyang Kang, **<u>Yuxuan Lin</u>**, Zhixue Chen, Yi Li. Area requirements to safeguard marine species in the face of human-modified climate connectivity. Under review of *Journal of Applied Ecology*
++ Kangchen Yu, **<u>Yuxuan Lin</u>**, Ang Yu. Performance of crosslinked β-Cyclodextrin & Chitosan in adsorbing Linear alkylbenzene sulfonates *(In preparation)*
 
 ## Research Projects
 * M.Phil project: sediment biogeochemistry
