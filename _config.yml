@@ -28,12 +28,10 @@ author:
   avatar           : "pic.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yuxuan-Lin-4"
   facebook         :
-  github           : "academicpages"
-  orcid            : "http://orcid.org/yourorcidurl"
-  twitter          : "replacethistwitterhandle"
+  github           : "YuxuanSeanLin"
+  orcid            : "https://orcid.org/0000-0002-5651-8816"
+  twitter          : 
