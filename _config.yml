@@ -6,21 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
 title                    : "<Your Name>"
-title_separator          : "-"
-name                     : &name "Yuxuan Lin"
-description              : &description "MPhil"
-url                      : https://yuxuanseanlin.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuxuanseanlin/yuxuanseanlin.github.io"
-teaser                   : "pic.jpg"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false 
-
+email                    : yuxuan.lin@connect.ust.hk
+description              : MPhil
+url                      : ""
+baseurl                  : ""
 
 # Site Author
 author:
